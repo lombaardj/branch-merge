@@ -1,3 +1,3 @@
 # branch-merge
 
-Branch 1.2
+Branch 3
